@@ -19,7 +19,7 @@ from src.metrics import relevant_sets, avaliacao
 BASE_DIR = os.path.join(os.path.dirname(__file__), "..")
 PROCESSED_DIR = os.path.join(BASE_DIR, "dados", "processed")
 RAW_DIR = os.path.join(BASE_DIR, "dados", "raw")
-RESULTS_DIR = os.path.join(BASE_DIR, "results")
+RESULTS_DIR = os.path.join(BASE_DIR, "resultados")
 
 CONFIG_NAME = "ambas"
 
