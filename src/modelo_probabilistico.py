@@ -11,10 +11,10 @@ class BM25Model:
         self.b = b    # 0 ignora tam documento, 1 penaliza mais
 
         self.doc_ids = None
-        self.doc_freqs = None       # doc_id -> Counter(termo -> freq)
-        self.doc_tams = None        # doc_id -> tamanho do documento
+        self.doc_freqs = None       # Counter(termo -> freq)
+        self.doc_tams = None        # tamanho do documento
         self.avgdl = None
-        self.df = None              # termo -> número de docs que contêm o termo
+        self.df = None              # número de docs que contêm o termo
         self.N = None               # número total de docs
         self.idf_cache = {}
 

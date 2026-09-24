@@ -1,6 +1,6 @@
 """
-Lê docs e consultas de data/raw/ e gera versões pré-processadas
-em data/processed/, de acordo com o exigido no enunciado usando
+Lê docs e consultas de dados/raw/ e gera versões preprocessadas
+em dados/processed/, de acordo com o exigido no enunciado usando
 a biblioteca NLTK:
 
     1. nada       -> apenas tokenização + lowercase

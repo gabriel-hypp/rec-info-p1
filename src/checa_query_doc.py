@@ -1,6 +1,4 @@
 """
-consulta_query_doc.py
-
 Utilitário simples para inspecionar uma consulta e um documento específicos
 (dados os IDs), mostrando texto original, tokens pré-processados e as
 estatísticas (TF, DF, IDF, tamanho do documento) que embasam as hipóteses
