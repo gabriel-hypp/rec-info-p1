@@ -1,0 +1,114 @@
+query_id,model,rank,doc_id,score,relevant,preview,case
+81,Vector,1,249,0.28728092490325596,False,"formulae for the computation of the functions employed
+for calculating the velocity distribution about a given
+aerofoil ",bm25_better
+81,Vector,2,652,0.278281714372611,False,"pressure distribution on two dimensional wings near
+the ground .",bm25_better
+81,Vector,3,206,0.2718025531558473,False,"the applications of the polygon method to the calculation
+of the compressible subsonic flow round two-dimensional
+profil",bm25_better
+81,Vector,4,714,0.260074297466315,False,"blockage corrections for three-dimensional flow closed
+throat wind tunnels, with considerations of the effect
+of compres",bm25_better
+81,Vector,5,672,0.23678656151231908,True,tunnel interference effects .,bm25_better
+81,BM25,1,799,11.809287392987017,True,"some effects of wind-tunnel interference observed in tests on
+two-dimensional aerofoils at high subsonic and transonic s",bm25_better
+81,BM25,2,672,11.743600878980345,True,tunnel interference effects .,bm25_better
+81,BM25,3,468,9.141955598184326,False,a refinement of the linearised transonic flow theory .,bm25_better
+81,BM25,4,631,9.063514220182846,False,"low speed wind tunnel tests on a two dimensional aerofoil
+with split flap near the ground .",bm25_better
+81,BM25,5,714,8.815297278484948,False,"blockage corrections for three-dimensional flow closed
+throat wind tunnels, with considerations of the effect
+of compres",bm25_better
+173,Vector,1,532,0.5117595188841628,False,"pitch-yaw stability of a missile oscillating in roll
+via the second method of lyapunov .",bm25_better
+173,Vector,2,367,0.35002198922131555,True,"control system and analysis and design via the second method of
+lyapunov .",bm25_better
+173,Vector,3,451,0.25455930591642434,True,liapunov's methods in automatic control theory .,bm25_better
+173,Vector,4,917,0.17897049231772455,False,"a method of calculating the short period longitudinal
+stability derivatives of a wing in linearised unsteady
+compressibl",bm25_better
+173,Vector,5,1073,0.17651362668695103,False,"a practical method for numerical evaluation of solutions
+of partial differential equations of the heat-conduction
+type .",bm25_better
+173,BM25,1,367,22.96188411728036,True,"control system and analysis and design via the second method of
+lyapunov .",bm25_better
+173,BM25,2,451,19.637538429847474,True,liapunov's methods in automatic control theory .,bm25_better
+173,BM25,3,532,17.84198999445136,False,"pitch-yaw stability of a missile oscillating in roll
+via the second method of lyapunov .",bm25_better
+173,BM25,4,917,12.469409145171472,False,"a method of calculating the short period longitudinal
+stability derivatives of a wing in linearised unsteady
+compressibl",bm25_better
+173,BM25,5,767,12.226801474643656,False,"mathematical techniques applying to the thermal fatigue behaviour
+of high temperature alloys .",bm25_better
+178,Vector,1,591,0.2827037740609282,True,an approximate equation for the /choke line/ of a compressor .,vector_better
+178,Vector,2,589,0.28184355274885636,True,some stall and surge phenomena in axial flow compressors .,vector_better
+178,Vector,3,216,0.2785965489437823,False,the supersonic axial flow compressor .,vector_better
+178,Vector,4,543,0.2536633489318198,False,"the stacking of compressor stage characteristics to
+give an overall compressor performance map .",vector_better
+178,Vector,5,138,0.22432443571071956,False,wakes in axial compressors .,vector_better
+178,BM25,1,543,10.96005722304438,False,"the stacking of compressor stage characteristics to
+give an overall compressor performance map .",vector_better
+178,BM25,2,31,10.746651073483491,False,thermal buckling of supersonic wing panels .,vector_better
+178,BM25,3,426,10.402014984817702,False,"preliminary analysis of axial flow compressors having
+supersonic velocity at the entrance of the stator .",vector_better
+178,BM25,4,592,10.267004670147632,False,design of axial compressors .,vector_better
+178,BM25,5,138,10.253506950933348,False,wakes in axial compressors .,vector_better
+145,Vector,1,1045,0.36613299875690863,True,the bending strength of pressurized cylinders .,vector_better
+145,Vector,2,839,0.291582638731454,True,"the bending stability of thin-- walled unstiffened
+circular cylinders including the effects of internal
+pressure .",vector_better
+145,Vector,3,763,0.24865248415032065,True,"effects of internal pressure on the buckling of circular-cylindrical
+shells under bending.",vector_better
+145,Vector,4,1176,0.2437665429812187,False,bending tests of ring-stiffened circular cylinders .,vector_better
+145,Vector,5,1046,0.23847898469644965,False,the bending strength of pressurized cylinders .,vector_better
+145,BM25,1,1126,19.479504430916897,False,"an engineer's conceptual approach to the buckling of
+cylindrical shell (axial loading) .",vector_better
+145,BM25,2,1051,17.31465404965807,False,"the stability of thin-walled unstiffened circular cylinders
+under axial compression including the effects of internal
+pr",vector_better
+145,BM25,3,1045,16.943736798813077,True,the bending strength of pressurized cylinders .,vector_better
+145,BM25,4,827,16.68464093996228,False,"a nonlinear theory of bending and buckling of thin
+elastic shallow spherical shells .",vector_better
+145,BM25,5,641,16.272312987428478,False,"reduction of the clamped plate to two membrane problems
+with an application to uniformly loaded sectors .",vector_better
+31,Vector,1,751,0.3834886211089605,False,"a note on the use of end plates to prevent three dimensional
+flow at the ends of bluff cylinders .",bads
+31,Vector,2,68,0.1934345435008012,False,"some aspects of air-helium simulation and hypersonic
+approximations .",bads
+31,Vector,3,247,0.18001758098211268,False,"the calculation of the pressure distribution on thick
+wings of small aspect ratio at zero lift in subsonic
+flow .",bads
+31,Vector,4,918,0.1799586081887029,False,"on the low aspect ratio oscillating rectangular wing
+in supersonic flow .",bads
+31,Vector,5,780,0.16918211842126943,False,"the transonic characteristics of 38 cambered rectangular
+wings of varying aspect ratio and thickness as determined
+by tr",bads
+31,BM25,1,751,23.110184309684676,False,"a note on the use of end plates to prevent three dimensional
+flow at the ends of bluff cylinders .",bads
+31,BM25,2,1209,17.297003885475963,False,aerodynamic processes in the downwash-impingement problem .,bads
+31,BM25,3,1153,14.36979817087526,False,"a study of the simulation of flow with free stream mach number 1 in a
+choked wind tunnel .",bads
+31,BM25,4,918,13.662137279352335,False,"on the low aspect ratio oscillating rectangular wing
+in supersonic flow .",bads
+31,BM25,5,895,13.109197612937992,False,"the airforces on the low aspect ratio rectangular wing
+oscillating in sonic flow .",bads
+22,Vector,1,125,0.27866190597006263,False,"measurements of skin friction of the compressible turbulent
+boundary layer on a cone with foreign gas injection .",bads
+22,Vector,2,254,0.27554321285424166,False,"boundary layers with suction and injection . a review
+of published work on skin friction .",bads
+22,Vector,3,560,0.23335722820801374,False,"a theoretical study of the effect of upstream
+transpiration-cooling on the heat transfer and skin friction characteristi",bads
+22,Vector,4,413,0.22631125173670147,False,"turbulent skin friction at high mach numbers and reynolds
+numbers in air and helium . nasa r82, 1960 .",bads
+22,Vector,5,346,0.22511858898686088,False,measurements of turbulent friction on a smooth flat plate in supersonic .,bads
+22,BM25,1,125,18.682990919933392,False,"measurements of skin friction of the compressible turbulent
+boundary layer on a cone with foreign gas injection .",bads
+22,BM25,2,560,17.051089164556323,False,"a theoretical study of the effect of upstream
+transpiration-cooling on the heat transfer and skin friction characteristi",bads
+22,BM25,3,413,14.667565031090703,False,"turbulent skin friction at high mach numbers and reynolds
+numbers in air and helium . nasa r82, 1960 .",bads
+22,BM25,4,307,13.872095218636208,False,"an approximate solution of hypersonic laminar boundary
+layer equations and its application .",bads
+22,BM25,5,254,13.858545512558727,False,"boundary layers with suction and injection . a review
+of published work on skin friction .",bads

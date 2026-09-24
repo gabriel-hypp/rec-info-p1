@@ -2,6 +2,9 @@
 Baixa Cranfield via 'ir_datasets' e exporta docs, queries e qrels 
 em arquivos simples dentro de dados/raw/, para que o resto não dependa 
 diretamente do ir_datasets em toda execução.
+
+Uso:
+    python -m src.data_loader
 """
 
 import os

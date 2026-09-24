@@ -4,10 +4,12 @@ em data/processed/, de acordo com o exigido no enunciado usando
 a biblioteca NLTK:
 
     1. nada       -> apenas tokenização + lowercase
-    2. stopwords  -> remoção de stopwords
-    3. stemming   -> stemming
+    2. stopwords  -> só remoção de stopwords
+    3. stemming   -> só stemming
     4. ambas      -> stopwords + stemming
 
+Uso: 
+    python -m src.preprocessamento
 """
 
 import os

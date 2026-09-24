@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache do ir_datasets (fica fora do repo, baixado localmente)
+.ir_datasets/
+
+# Relatório em formatos intermediários (mantenha só o PDF final)
+report/*.aux
+report/*.log
+report/*.out
+report/*.synctex.gz
+
+# SO / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Variáveis de ambiente / segredos
+.env
