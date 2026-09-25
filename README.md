@@ -83,5 +83,5 @@ tp1-ri/
 ├── src/                # módulos principais (pré-processamento, modelos, métricas)
 ├── testes/             # um script por requisito do enunciado
 ├── resultados/         # saídas: CSVs por consulta e agregados
-└── report/             # relatório em PDF
+└── relatório/          # relatório em PDF
 ```
